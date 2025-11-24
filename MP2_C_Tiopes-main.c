@@ -9,8 +9,8 @@ extern void imgCvtGrayFloatToInt(int size, float *og_arr, int *final_arr);
 int main(){
 	
 	int i, j;
-	int m = 100;
-	int n = 100;
+	int m = 10; // init values for perfomance testing
+	int n = 10; // init values for perfomance testing
 	
 	clock_t start_time, end_time;
     double time_spent_seconds;
@@ -25,12 +25,11 @@ int main(){
 	printf("\n");
 	
 	
-	
 	int size = m*n;	
 	float OG[size];
 	int final[size];
 	
-	/*
+	/* // FOR PERFORMANCE TESTING
 	srand(time(NULL));
 	for (i = 0; i < size; i++){
 		OG[i] = (float)rand() / (float)RAND_MAX;
