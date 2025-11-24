@@ -4,7 +4,7 @@ Matthew Gavin A. Tiopes
 
 ## i. Performance Analysis
 
-[Performance Table](/performance_time_table.png)
+![Performance Table](/performance_time_table.png)
 
 Performance time table can also be accessed here: https://docs.google.com/spreadsheets/d/1t4RqeG0V_ywO7esF8tEFSGoLWKuUwMNQ92bxLfj4Gbc/edit?usp=sharing
 
@@ -20,7 +20,9 @@ Overall, I think the ASM function had better performance than the C function. It
 
 ## ii. Correctness Check Output
 
-[Correctness Check](/correctness_check.png)
+![Correctness Check](/correctness_check.png)
+
+This uses the sample input found in input.txt
 
 ## iii. Video Demonstration
 
