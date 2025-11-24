@@ -4,7 +4,7 @@ Matthew Gavin A. Tiopes
 
 ## i. Performance Analysis
 
-(/performance_time_table.png)
+[Performance Table](/performance_time_table.png)
 
 Performance time table can also be accessed here: https://docs.google.com/spreadsheets/d/1t4RqeG0V_ywO7esF8tEFSGoLWKuUwMNQ92bxLfj4Gbc/edit?usp=sharing
 
@@ -19,3 +19,9 @@ Finally, in the 500x500 tests, ASM had an average time of 29.06753333 seconds wh
 Overall, I think the ASM function had better performance than the C function. It only lost to the C function once, but even then it was just very slightly slower. The big difference was the 500x500 tests, where ASM is way faster than C. I think that the trend that can be seen here is that the bigger the input grows in size, the better ASM will perform compared to C, even if ASM is around equal or slightly worse performing at smaller input sizes. 
 
 ## ii. Correctness Check Output
+
+[Correctness Check](/correctness_check.png)
+
+## iii. Video Demonstration
+
+
