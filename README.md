@@ -2,6 +2,12 @@
 Member/s:
 Matthew Gavin A. Tiopes
 
+(For MP2_C_Tiopes-COnly.c, compile with: gcc MP2_C_Tiopes-COnly.c -o MP2_C_Tiopes-COnly.exe)
+
+(Correctness Checking: MP2_C_Tiopes-COnly.exe < input.txt)
+
+(Performance Testing: MP2_C_Tiopes-COnly.exe)
+
 ## i. Performance Analysis
 
 ![Performance Table](/performance_time_table.png)
