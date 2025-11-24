@@ -4,7 +4,7 @@ Matthew Gavin A. Tiopes
 
 ## i. Performance Analysis
 
-(performance_time_table.png)
+(/performance_time_table.png)
 
 Performance time table can also be accessed here: https://docs.google.com/spreadsheets/d/1t4RqeG0V_ywO7esF8tEFSGoLWKuUwMNQ92bxLfj4Gbc/edit?usp=sharing
 
