@@ -24,7 +24,7 @@ Overall, I think the ASM function had better performance than the C function. It
 
 This uses the sample input found in input.txt
 
-(There might be a discrepency with the sample given in the specs, I could not find a way to round the answers to the same numbers as in the specs)
+(There might be a discrepency with the sample given in the specs, I could not find a way to round the answers to the same numbers as in the specs so there may be an error in the specs)
 
 ## iii. Video Demonstration
 
